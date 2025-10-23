@@ -1,0 +1,11 @@
+{
+    "name": "Facebook",
+    "users": 1500000000,
+    "likes per minute": 382000.5,
+    "public ownership": true,
+    "founders": ["Mark Zuckerberg", "Dustin Moskovitz", "Chris Hughes", "Andrew McCollum", "Eduardo Saverin"],
+    "business": {"primary": "Meta Platforms", "app": "Facebook"},
+    "CEO": "Mark Zuckerberg",
+    "notes": "Facebook is progressive app."
+
+}
