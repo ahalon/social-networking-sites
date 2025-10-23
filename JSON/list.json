@@ -1,0 +1,8 @@
+[
+    {"platform":"Facebook","monthly_users_mln":3000,"ads":true,"origin":"USA","founded":2004},
+    {"platform":"Instagram","monthly_users_mln":2000,"ads":true,"origin":"USA","founded":2010},
+    {"platform":"Twitter","monthly_users_mln":556,"ads":true,"origin":"USA","founded":2006},
+    {"platform":"TikTok","monthly_users_mln":1500,"ads":true,"origin":"China","founded":2016},
+    {"platform":"LinkedIn","monthly_users_mln":1000,"ads":false,"origin":"USA","founded":2003},
+    {"platform":"Snapchat","monthly_users_mln":800,"ads":true,"origin":"USA","founded":2011}
+  ]
